@@ -1,0 +1,21 @@
+{
+  "range": "GameConfig!A1:Z",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Level",
+      "Win",
+      "Lose"
+    ],
+    [
+      1,
+      100,
+      25
+    ],
+    [
+      2,
+      550,
+      25
+    ]
+  ]
+}
