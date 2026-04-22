@@ -1,0 +1,62 @@
+{
+  "range": "MultipleLangage!A1:Z",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "English",
+      "VietNamese",
+      "Spanish",
+      "French",
+      "German",
+      "Japanese",
+      "Korean",
+      "Chinese",
+      "Portuguese",
+      "Russian",
+      "Thai",
+      "Italian"
+    ],
+    [
+      "Welcome",
+      "Chào mừng",
+      "Bienvenido",
+      "Accueillir",
+      "Willkommen",
+      "いらっしゃいませ",
+      "환영",
+      "欢迎",
+      "Bem-vindo",
+      "Добро пожаловать",
+      "ยินดีต้อนรับ",
+      "Benvenuto"
+    ],
+    [
+      "Hello",
+      "Xin chào",
+      "Hola",
+      "Bonjour",
+      "Hallo",
+      "こんにちは",
+      "안녕하세요",
+      "你好",
+      "Olá",
+      "Привет",
+      "สวัสดี",
+      "Ciao"
+    ],
+    [
+      "Bye",
+      "Tạm biệt",
+      "Adiós",
+      "Au revoir",
+      "Tschüss",
+      "さよなら",
+      "안녕",
+      "再见",
+      "Tchau",
+      "Пока",
+      "ลาก่อน",
+      "Ciao"
+    ]
+  ]
+}
