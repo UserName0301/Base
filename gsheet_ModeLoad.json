@@ -9,6 +9,10 @@
     [
       "IsLoadOnline",
       true
+    ],
+    [
+      "DataVersion",
+      1
     ]
   ]
 }
